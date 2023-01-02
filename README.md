@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Nomadic open source advocate. I love indie game development, electronics, Linux and being underwater.
+I am a Nomadic open source advocate. I love indie game development, electronics, Linux and being underwater. 
 
-
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({https://www.linkedin.com/in/millsanthony/})
 <!--
 **anthony-mills/anthony-mills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
