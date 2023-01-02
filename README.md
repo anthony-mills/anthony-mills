@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Nomadic open source advocate. I love indie game development, electronics, Linux and being underwater.
+
+
 <!--
 **anthony-mills/anthony-mills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
