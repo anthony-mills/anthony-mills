@@ -41,11 +41,6 @@ I am a Nomadic open source advocate. I love indie game development, electronics,
                     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
             </a>
 </div>
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 80%">
-            <img src="https://github-readme-stats.vercel.app/api?username=anthony-mills"/>
-</div>
 <!--
 **anthony-mills/anthony-mills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
