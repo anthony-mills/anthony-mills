@@ -9,9 +9,6 @@ I am a Nomadic open source advocate. I love indie game development, electronics,
             <a href="https://www.anthony-mills.com/">
                     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=""/>
             </a>
-            <a href="https://www.linkedin.com/in/millsanthony/">
-                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
 </div>
 
 ### My Interests
